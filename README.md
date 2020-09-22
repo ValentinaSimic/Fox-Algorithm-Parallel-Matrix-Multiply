@@ -2,7 +2,7 @@
 
 
 >Implementation of Fox' algorithm for matrix multiplication.
-Based on Matrix-Matrix Multiplication Using Fox’s Algorithm and PBLAS Routine PDGEMM
+Based on Matrix-Matrix Multiplication Using Fox’s Algorithm and MPI standard.
 
 ## Table of contents
 * [About Fox Algorithm](#about-fox-algorithm)
